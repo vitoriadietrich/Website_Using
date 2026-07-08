@@ -2,22 +2,22 @@
 
 Um projeto simples de **website completo** usando HTML e CSS.
 
-## ✨ Sobre
+## Sobre
 
 Este projeto demonstra como criar um **site moderno e responsivo**, com estrutura básica de páginas e layout organizado.
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - HTML
 - CSS
 
-## 🎯 Funcionalidades
+## Funcionalidades
 
 - Estrutura completa de website
 - Layout responsivo
 - Design simples e limpo
 
-## 🚀 Como usar
+## Como usar
 
 1. Baixe ou clone o repositório  
 2. Abra o arquivo `index.html` no navegador
